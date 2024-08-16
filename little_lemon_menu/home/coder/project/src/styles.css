@@ -1,0 +1,48 @@
+/* Body element */
+body {
+    background-color: #E0E0E2;
+}
+
+/* h1 element */
+h1 {
+    color: blue;
+}
+
+/* h2 elements */
+h2 {
+    color: grey;
+}
+
+/* center-text CSS class */
+.center-text {
+    text-align: center;
+}
+
+/* #logo element */
+#logo {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+/* span elements that are children of h2 elements */
+h2 > span {
+    color: #FA9F42;
+    font-size: 0.75em;
+}
+
+/* #copyright element */
+#copyright {
+    padding-top: 12px;
+    font-size: 0.75em;
+}
+
+/* Image element with id 'photo' */
+#photo {
+    border: 2px solid blue;
+}
+
+/* Divider elements */
+div {
+    margin: 4px;
+}
